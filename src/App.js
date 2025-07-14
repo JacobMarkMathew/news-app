@@ -7,7 +7,7 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-      <Route  path ="/viewall" element ={<Viewall />}/>
+      <Route  path ="/" element ={<Viewall />}/>
     </Routes>
     </BrowserRouter>
   );
